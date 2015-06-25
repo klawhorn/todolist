@@ -1,0 +1,33 @@
+html {
+	background-color: #FF8533;
+	color: black;
+	text-align: center;
+	padding: 10%;
+	font-size: 1.5em;
+}
+
+#maindiv {
+	background-color: #FFC299;
+	border: 10px solid white;
+	border-radius: 20px;
+	webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 	moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 	padding: 2%;
+}
+
+#todo-list {
+	margin: 2%;
+	background-color: #FFC299;
+	border: 10px solid white;
+	border-radius: 20px;
+	webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 	moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 	padding: 2%;
+}
+
+h1 {
+	/*font-size: 1.5em;*/
+	text-decoration: underline;
+}
